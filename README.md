@@ -12,7 +12,7 @@
 
 <p align="center">
 	<a href="https://eoscostarica.io">
-		<img src="assets/logos/eoscostarica-v-transaprent-color.png" width="300">
+		<img src="https://raw.githubusercontent.com/eoscostarica/assets/master/logos/eoscostarica-v-transaprent-color.png" width="300">
 	</a>
 </p>
 
